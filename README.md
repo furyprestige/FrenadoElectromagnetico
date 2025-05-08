@@ -6,7 +6,7 @@ Este proyecto en Python realiza una simulación de la caída y frenado de una g�
 - **Altura.mp4**: curva de altura vs. tiempo.  
 - **Aceleracion.mp4**: curva de aceleración vs. tiempo.
 
-La simulación emplea el método de Runge-Kutta de orden 4 para integrar la dinámica con diferentes constantes de frenado.
+La simulación emplea el método de Runge-Kutta de orden 4 para modelar el movimiento con diferentes constantes de frenado.
 
 
 ## Objetivo de la actividad
@@ -33,7 +33,7 @@ La simulación emplea el método de Runge-Kutta de orden 4 para integrar la din�
   - Asegúrate de tener ffmpeg instalado con: `ffmpeg -version`
 
 ## Ejecución de la Solución
-  - Ejecuta el comando python main para iniciar la ejecución.
+  - Ejecuta el comando `python main` para iniciar la ejecución.
 
 ## Uso y Personalización
   - Parámetros de la Simulación.
